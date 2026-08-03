@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-BrandFlow AI is an MVP SaaS platform that turns product info into ready-to-publish marketing content (Instagram, Facebook, WhatsApp, email, SEO, hashtags, AI image/video prompts) using the Claude AI API. Pilot client is Tiendas Barón; built for the SmartRanks AI Challenge 2026. Shopify integration is planned but not yet implemented.
+BrandFlow AI is an MVP SaaS platform that turns product info into ready-to-publish marketing content (Instagram, Facebook, WhatsApp, email, SEO, hashtags, AI image/video prompts) using the Claude AI API. Pilot client is a generic use case: leather footwear SMB; built for the SmartRanks AI Challenge 2026. Shopify integration is planned but not yet implemented.
 
 The repo is a monorepo with three independent npm packages: `backend/` (Express API), `frontend/` (React + Vite, currently a placeholder shell), and `shared/` (empty stub dirs for `constants`, `types`, `utils` — no code yet).
 
